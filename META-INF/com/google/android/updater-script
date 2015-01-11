@@ -192,7 +192,6 @@ set_metadata("/system/xbin/librank", "uid", 0, "gid", 0, "mode", 06755, "capabil
 set_metadata("/system/xbin/procmem", "uid", 0, "gid", 0, "mode", 06755, "capabilities", 0x0, "selabel", "u:object_r:system_file:s0");
 set_metadata("/system/xbin/procrank", "uid", 0, "gid", 0, "mode", 06755, "capabilities", 0x0, "selabel", "u:object_r:system_file:s0");
 set_metadata("/system/xbin/su", "uid", 0, "gid", 0, "mode", 06755, "capabilities", 0x0, "selabel", "u:object_r:su_exec:s0");
-set_metadata("/system/xbin/tcpdump", "uid", 0, "gid", 0, "mode", 06755, "capabilities", 0x0, "selabel", "u:object_r:system_file:s0");
 show_progress(0.200000, 0);
 delete("/system/bin/otasigcheck.sh");
 show_progress(0.200000, 10);

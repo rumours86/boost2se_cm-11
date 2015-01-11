@@ -1,3 +1,3 @@
-post-build=HighScreen/cm_D10A_HighScreen/D10A_HighScreen:4.4.4/KTU84Q/0e45bf6117:eng/test-keys
-post-timestamp=1420712229
+post-build=HighScreen/cm_D10A_HighScreen/D10A_HighScreen:4.4.4/KTU84Q/32f98d09eb:userdebug/test-keys
+post-timestamp=1420926584
 pre-device=D10A_HighScreen
